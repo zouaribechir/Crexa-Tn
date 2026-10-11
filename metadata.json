@@ -1,0 +1,6 @@
+{
+  "name": "CREXA - Creator & Business Calculator Platform",
+  "description": "Calculate smarter. Grow faster. CREXA is a global digital calculator platform for content creators, influencers, affiliates, and small online businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
